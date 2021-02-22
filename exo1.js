@@ -1,5 +1,6 @@
 /*
 JavaScript exercise
+
 Asking user for 2 Strings
 Checking if first String is twice the length of second String's
 */
